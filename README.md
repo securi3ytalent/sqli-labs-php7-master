@@ -75,5 +75,7 @@ Location of Most Artifacts (ESE Database):
 Sessions:
 %LocalAppData%\Microsoft\Internet Explorer\Recovery\*.dat
 
+Copyright by https://www.13cubed.com/downloads/windows_browser_artifacts_cheat_sheet.pdf
+
 
 
